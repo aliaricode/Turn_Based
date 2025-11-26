@@ -1,0 +1,7634 @@
+{
+    "10,000,000 Volt Thunderbolt": [
+        195,
+        100,
+        1,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Absorb": [
+        20,
+        100,
+        25,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Accelerock": [
+        40,
+        100,
+        20,
+        "Physical",
+        "Rock",
+        1
+    ],
+    "Acid": [
+        40,
+        100,
+        30,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Acid Armor": [
+        0,
+        100,
+        20,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Acid Downpour": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Acid Spray": [
+        40,
+        100,
+        20,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Acrobatics": [
+        55,
+        100,
+        15,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Acupressure": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Aerial Ace": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Aeroblast": [
+        100,
+        95,
+        5,
+        "Special",
+        "Flying",
+        0
+    ],
+    "After You": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Agility": [
+        0,
+        100,
+        30,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Air Cutter": [
+        60,
+        95,
+        25,
+        "Special",
+        "Flying",
+        0
+    ],
+    "Air Slash": [
+        75,
+        95,
+        15,
+        "Special",
+        "Flying",
+        0
+    ],
+    "All-Out Pummeling": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Alluring Voice": [
+        80,
+        100,
+        10,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Ally Switch": [
+        0,
+        100,
+        15,
+        "Status",
+        "Psychic",
+        2
+    ],
+    "Amnesia": [
+        0,
+        100,
+        20,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Anchor Shot": [
+        80,
+        100,
+        20,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Ancient Power": [
+        60,
+        100,
+        5,
+        "Special",
+        "Rock",
+        0
+    ],
+    "Apple Acid": [
+        80,
+        100,
+        10,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Aqua Cutter": [
+        70,
+        100,
+        20,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Aqua Jet": [
+        40,
+        100,
+        20,
+        "Physical",
+        "Water",
+        1
+    ],
+    "Aqua Ring": [
+        0,
+        100,
+        20,
+        "Status",
+        "Water",
+        0
+    ],
+    "Aqua Step": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Aqua Tail": [
+        90,
+        90,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Armor Cannon": [
+        120,
+        100,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Arm Thrust": [
+        15,
+        100,
+        20,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Aromatherapy": [
+        0,
+        100,
+        5,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Aromatic Mist": [
+        0,
+        100,
+        20,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Assist": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Assurance": [
+        60,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Astonish": [
+        30,
+        100,
+        15,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Astral Barrage": [
+        120,
+        100,
+        5,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Attack Order": [
+        90,
+        100,
+        15,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Attract": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Aura Sphere": [
+        80,
+        100,
+        20,
+        "Special",
+        "Fighting",
+        0
+    ],
+    "Aura Wheel": [
+        110,
+        100,
+        10,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Aurora Beam": [
+        65,
+        100,
+        20,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Aurora Veil": [
+        0,
+        100,
+        20,
+        "Status",
+        "Ice",
+        0
+    ],
+    "Autotomize": [
+        0,
+        100,
+        15,
+        "Status",
+        "Steel",
+        0
+    ],
+    "Avalanche": [
+        60,
+        100,
+        10,
+        "Physical",
+        "Ice",
+        -4
+    ],
+    "Axe Kick": [
+        120,
+        90,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Baby-Doll Eyes": [
+        0,
+        100,
+        30,
+        "Status",
+        "Fairy",
+        1
+    ],
+    "Baddy Bad": [
+        80,
+        95,
+        15,
+        "Special",
+        "Dark",
+        0
+    ],
+    "Baneful Bunker": [
+        0,
+        100,
+        10,
+        "Status",
+        "Poison",
+        4
+    ],
+    "Barb Barrage": [
+        60,
+        100,
+        10,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Barrage": [
+        15,
+        85,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Barrier": [
+        0,
+        100,
+        20,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Baton Pass": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Beak Blast": [
+        100,
+        100,
+        15,
+        "Physical",
+        "Flying",
+        -3
+    ],
+    "Beat Up": [
+        0,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Behemoth Bash": [
+        100,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Behemoth Blade": [
+        100,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Belch": [
+        120,
+        90,
+        10,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Belly Drum": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Bestow": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Bide": [
+        0,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        1
+    ],
+    "Bind": [
+        15,
+        85,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Bite": [
+        60,
+        100,
+        25,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Bitter Blade": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Bitter Malice": [
+        75,
+        100,
+        10,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Black Hole Eclipse": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Blast Burn": [
+        150,
+        90,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Blaze Kick": [
+        85,
+        90,
+        10,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Blazing Torque": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Bleakwind Storm": [
+        100,
+        80,
+        10,
+        "Special",
+        "Flying",
+        0
+    ],
+    "Blizzard": [
+        110,
+        70,
+        5,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Block": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Blood Moon": [
+        140,
+        100,
+        5,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Bloom Doom": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Blue Flare": [
+        130,
+        85,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Body Press": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Body Slam": [
+        85,
+        100,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Bolt Beak": [
+        85,
+        100,
+        10,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Bolt Strike": [
+        130,
+        85,
+        5,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Bone Club": [
+        65,
+        85,
+        20,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Bonemerang": [
+        50,
+        90,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Bone Rush": [
+        25,
+        90,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Boomburst": [
+        140,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Bounce": [
+        85,
+        85,
+        5,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Bouncy Bubble": [
+        60,
+        100,
+        20,
+        "Special",
+        "Water",
+        0
+    ],
+    "Branch Poke": [
+        40,
+        100,
+        40,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Brave Bird": [
+        120,
+        100,
+        15,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Breaking Swipe": [
+        60,
+        100,
+        15,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Breakneck Blitz": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Brick Break": [
+        75,
+        100,
+        15,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Brine": [
+        65,
+        100,
+        10,
+        "Special",
+        "Water",
+        0
+    ],
+    "Brutal Swing": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Bubble": [
+        40,
+        100,
+        30,
+        "Special",
+        "Water",
+        0
+    ],
+    "Bubble Beam": [
+        65,
+        100,
+        20,
+        "Special",
+        "Water",
+        0
+    ],
+    "Bug Bite": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Bug Buzz": [
+        90,
+        100,
+        10,
+        "Special",
+        "Bug",
+        0
+    ],
+    "Bulk Up": [
+        0,
+        100,
+        20,
+        "Status",
+        "Fighting",
+        0
+    ],
+    "Bulldoze": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Bullet Punch": [
+        40,
+        100,
+        30,
+        "Physical",
+        "Steel",
+        1
+    ],
+    "Bullet Seed": [
+        25,
+        100,
+        30,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Burning Bulwark": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fire",
+        4
+    ],
+    "Burning Jealousy": [
+        70,
+        100,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Burn Up": [
+        130,
+        100,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Buzzy Buzz": [
+        60,
+        100,
+        20,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Calm Mind": [
+        0,
+        100,
+        20,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Camouflage": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Captivate": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Catastropika": [
+        210,
+        100,
+        1,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Ceaseless Edge": [
+        65,
+        90,
+        15,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Celebrate": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Charge": [
+        0,
+        100,
+        20,
+        "Status",
+        "Electric",
+        0
+    ],
+    "Charge Beam": [
+        50,
+        90,
+        10,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Charm": [
+        0,
+        100,
+        20,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Chatter": [
+        65,
+        100,
+        20,
+        "Special",
+        "Flying",
+        0
+    ],
+    "Chilling Water": [
+        50,
+        100,
+        20,
+        "Special",
+        "Water",
+        0
+    ],
+    "Chilly Reception": [
+        0,
+        100,
+        10,
+        "Status",
+        "Ice",
+        0
+    ],
+    "Chip Away": [
+        70,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Chloroblast": [
+        150,
+        95,
+        5,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Circle Throw": [
+        60,
+        90,
+        10,
+        "Physical",
+        "Fighting",
+        -6
+    ],
+    "Clamp": [
+        35,
+        85,
+        15,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Clanging Scales": [
+        110,
+        100,
+        5,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Clangorous Soul": [
+        0,
+        100,
+        5,
+        "Status",
+        "Dragon",
+        0
+    ],
+    "Clangorous Soulblaze": [
+        185,
+        100,
+        1,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Clear Smog": [
+        50,
+        100,
+        15,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Close Combat": [
+        120,
+        100,
+        5,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Coaching": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fighting",
+        0
+    ],
+    "Coil": [
+        0,
+        100,
+        20,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Collision Course": [
+        100,
+        100,
+        5,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Combat Torque": [
+        100,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Comet Punch": [
+        18,
+        85,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Comeuppance": [
+        0,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Confide": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Confuse Ray": [
+        0,
+        100,
+        10,
+        "Status",
+        "Ghost",
+        0
+    ],
+    "Confusion": [
+        50,
+        100,
+        25,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Constrict": [
+        10,
+        100,
+        35,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Continental Crush": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Conversion": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Conversion 2": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Copycat": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Core Enforcer": [
+        100,
+        100,
+        10,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Corkscrew Crash": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Corrosive Gas": [
+        0,
+        100,
+        40,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Cosmic Power": [
+        0,
+        100,
+        20,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Cotton Guard": [
+        0,
+        100,
+        10,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Cotton Spore": [
+        0,
+        100,
+        40,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Counter": [
+        0,
+        100,
+        20,
+        "Physical",
+        "Fighting",
+        -5
+    ],
+    "Court Change": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Covet": [
+        60,
+        100,
+        25,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Crabhammer": [
+        100,
+        90,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Crafty Shield": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fairy",
+        3
+    ],
+    "Cross Chop": [
+        100,
+        80,
+        5,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Cross Poison": [
+        70,
+        100,
+        20,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Crunch": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Crush Claw": [
+        75,
+        95,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Crush Grip": [
+        0,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Curse": [
+        0,
+        100,
+        10,
+        "Status",
+        "Ghost",
+        0
+    ],
+    "Cut": [
+        50,
+        95,
+        30,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Darkest Lariat": [
+        85,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Dark Pulse": [
+        80,
+        100,
+        15,
+        "Special",
+        "Dark",
+        0
+    ],
+    "Dark Void": [
+        0,
+        50,
+        10,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Dazzling Gleam": [
+        80,
+        100,
+        10,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Decorate": [
+        0,
+        100,
+        15,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Defend Order": [
+        0,
+        100,
+        10,
+        "Status",
+        "Bug",
+        0
+    ],
+    "Defense Curl": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Defog": [
+        0,
+        100,
+        15,
+        "Status",
+        "Flying",
+        0
+    ],
+    "Destiny Bond": [
+        0,
+        100,
+        5,
+        "Status",
+        "Ghost",
+        0
+    ],
+    "Detect": [
+        0,
+        100,
+        5,
+        "Status",
+        "Fighting",
+        4
+    ],
+    "Devastating Drake": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Diamond Storm": [
+        100,
+        95,
+        5,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Dig": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Dire Claw": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Disable": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Disarming Voice": [
+        40,
+        100,
+        15,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Discharge": [
+        80,
+        100,
+        15,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Dive": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Dizzy Punch": [
+        70,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Doodle": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Doom Desire": [
+        140,
+        100,
+        5,
+        "Special",
+        "Steel",
+        0
+    ],
+    "Double-Edge": [
+        120,
+        100,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Double Hit": [
+        35,
+        90,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Double Iron Bash": [
+        60,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Double Kick": [
+        30,
+        100,
+        30,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Double Shock": [
+        120,
+        100,
+        5,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Double Slap": [
+        15,
+        85,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Double Team": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Draco Meteor": [
+        130,
+        90,
+        5,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Dragon Ascent": [
+        120,
+        100,
+        5,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Dragon Breath": [
+        60,
+        100,
+        20,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Dragon Cheer": [
+        0,
+        100,
+        15,
+        "Status",
+        "Dragon",
+        0
+    ],
+    "Dragon Claw": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Dragon Dance": [
+        0,
+        100,
+        20,
+        "Status",
+        "Dragon",
+        0
+    ],
+    "Dragon Darts": [
+        50,
+        100,
+        10,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Dragon Energy": [
+        150,
+        100,
+        5,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Dragon Hammer": [
+        90,
+        100,
+        15,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Dragon Pulse": [
+        85,
+        100,
+        10,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Dragon Rage": [
+        0,
+        100,
+        10,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Dragon Rush": [
+        100,
+        75,
+        10,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Dragon Tail": [
+        60,
+        90,
+        10,
+        "Physical",
+        "Dragon",
+        -6
+    ],
+    "Draining Kiss": [
+        50,
+        100,
+        10,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Drain Punch": [
+        75,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Dream Eater": [
+        100,
+        100,
+        15,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Drill Peck": [
+        80,
+        100,
+        20,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Drill Run": [
+        80,
+        95,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Drum Beating": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Dual Chop": [
+        40,
+        90,
+        15,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Dual Wingbeat": [
+        40,
+        90,
+        10,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Dynamax Cannon": [
+        100,
+        100,
+        5,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Dynamic Punch": [
+        100,
+        50,
+        5,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Earth Power": [
+        90,
+        100,
+        10,
+        "Special",
+        "Ground",
+        0
+    ],
+    "Earthquake": [
+        100,
+        100,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Echoed Voice": [
+        40,
+        100,
+        15,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Eerie Impulse": [
+        0,
+        100,
+        15,
+        "Status",
+        "Electric",
+        0
+    ],
+    "Eerie Spell": [
+        80,
+        100,
+        5,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Egg Bomb": [
+        100,
+        75,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Electric Terrain": [
+        0,
+        100,
+        10,
+        "Status",
+        "Electric",
+        0
+    ],
+    "Electrify": [
+        0,
+        100,
+        20,
+        "Status",
+        "Electric",
+        0
+    ],
+    "Electro Ball": [
+        0,
+        100,
+        10,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Electro Drift": [
+        100,
+        100,
+        5,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Electro Shot": [
+        130,
+        100,
+        10,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Electroweb": [
+        55,
+        95,
+        15,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Embargo": [
+        0,
+        100,
+        15,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Ember": [
+        40,
+        100,
+        25,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Encore": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Endeavor": [
+        0,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Endure": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        4
+    ],
+    "Energy Ball": [
+        90,
+        100,
+        10,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Entrainment": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Eruption": [
+        150,
+        100,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Esper Wing": [
+        80,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Eternabeam": [
+        160,
+        90,
+        5,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Expanding Force": [
+        80,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Explosion": [
+        250,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Extrasensory": [
+        80,
+        100,
+        20,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Extreme Evoboost": [
+        0,
+        100,
+        1,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Extreme Speed": [
+        80,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        2
+    ],
+    "Facade": [
+        70,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Fairy Lock": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Fairy Wind": [
+        40,
+        100,
+        30,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Fake Out": [
+        40,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        3
+    ],
+    "Fake Tears": [
+        0,
+        100,
+        20,
+        "Status",
+        "Dark",
+        0
+    ],
+    "False Surrender": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "False Swipe": [
+        40,
+        100,
+        40,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Feather Dance": [
+        0,
+        100,
+        15,
+        "Status",
+        "Flying",
+        0
+    ],
+    "Feint": [
+        30,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        2
+    ],
+    "Feint Attack": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Fell Stinger": [
+        50,
+        100,
+        25,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Fickle Beam": [
+        80,
+        100,
+        5,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Fiery Dance": [
+        80,
+        100,
+        10,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Fiery Wrath": [
+        90,
+        100,
+        10,
+        "Special",
+        "Dark",
+        0
+    ],
+    "Fillet Away": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Final Gambit": [
+        0,
+        100,
+        5,
+        "Special",
+        "Fighting",
+        0
+    ],
+    "Fire Blast": [
+        110,
+        85,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Fire Fang": [
+        65,
+        95,
+        15,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Fire Lash": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Fire Pledge": [
+        80,
+        100,
+        10,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Fire Punch": [
+        75,
+        100,
+        15,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Fire Spin": [
+        35,
+        85,
+        15,
+        "Special",
+        "Fire",
+        0
+    ],
+    "First Impression": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Bug",
+        2
+    ],
+    "Fishious Rend": [
+        85,
+        100,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Fissure": [
+        0,
+        30,
+        5,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Flail": [
+        0,
+        100,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Flame Burst": [
+        70,
+        100,
+        15,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Flame Charge": [
+        50,
+        100,
+        20,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Flamethrower": [
+        90,
+        100,
+        15,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Flame Wheel": [
+        60,
+        100,
+        25,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Flare Blitz": [
+        120,
+        100,
+        15,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Flash": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Flash Cannon": [
+        80,
+        100,
+        10,
+        "Special",
+        "Steel",
+        0
+    ],
+    "Flatter": [
+        0,
+        100,
+        15,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Fleur Cannon": [
+        130,
+        90,
+        5,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Fling": [
+        0,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Flip Turn": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Floaty Fall": [
+        90,
+        95,
+        15,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Floral Healing": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Flower Shield": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Flower Trick": [
+        70,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Fly": [
+        90,
+        95,
+        15,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Flying Press": [
+        100,
+        95,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Focus Blast": [
+        120,
+        70,
+        5,
+        "Special",
+        "Fighting",
+        0
+    ],
+    "Focus Energy": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Focus Punch": [
+        150,
+        100,
+        20,
+        "Physical",
+        "Fighting",
+        -3
+    ],
+    "Follow Me": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        2
+    ],
+    "Force Palm": [
+        60,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Foresight": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Forest's Curse": [
+        0,
+        100,
+        20,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Foul Play": [
+        95,
+        100,
+        15,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Freeze-Dry": [
+        70,
+        100,
+        20,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Freeze Shock": [
+        140,
+        90,
+        5,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Freezing Glare": [
+        90,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Freezy Frost": [
+        100,
+        90,
+        10,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Frenzy Plant": [
+        150,
+        90,
+        5,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Frost Breath": [
+        60,
+        90,
+        10,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Frustration": [
+        0,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Fury Attack": [
+        15,
+        85,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Fury Cutter": [
+        40,
+        95,
+        20,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Fury Swipes": [
+        18,
+        80,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Fusion Bolt": [
+        100,
+        100,
+        5,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Fusion Flare": [
+        100,
+        100,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Future Sight": [
+        120,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Gastro Acid": [
+        0,
+        100,
+        10,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Gear Grind": [
+        50,
+        85,
+        15,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Gear Up": [
+        0,
+        100,
+        20,
+        "Status",
+        "Steel",
+        0
+    ],
+    "Genesis Supernova": [
+        185,
+        100,
+        1,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Geomancy": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Giga Drain": [
+        75,
+        100,
+        10,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Giga Impact": [
+        150,
+        90,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Gigaton Hammer": [
+        160,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Gigavolt Havoc": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Glacial Lance": [
+        120,
+        100,
+        5,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Glaciate": [
+        65,
+        95,
+        10,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Glaive Rush": [
+        120,
+        100,
+        5,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Glare": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Glitzy Glow": [
+        80,
+        95,
+        15,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "G-Max Befuddle": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "G-Max Cannonade": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "G-Max Centiferno": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "G-Max Chi Strike": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "G-Max Cuddle": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "G-Max Depletion": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "G-Max Drum Solo": [
+        160,
+        100,
+        5,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "G-Max Finale": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Fairy",
+        0
+    ],
+    "G-Max Fireball": [
+        160,
+        100,
+        5,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "G-Max Foam Burst": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Water",
+        0
+    ],
+    "G-Max Gold Rush": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "G-Max Gravitas": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "G-Max Hydrosnipe": [
+        160,
+        100,
+        5,
+        "Physical",
+        "Water",
+        0
+    ],
+    "G-Max Malodor": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "G-Max Meltdown": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "G-Max One Blow": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "G-Max Rapid Flow": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Water",
+        0
+    ],
+    "G-Max Replenish": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "G-Max Resonance": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "G-Max Sandblast": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "G-Max Smite": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Fairy",
+        0
+    ],
+    "G-Max Snooze": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "G-Max Steelsurge": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "G-Max Stonesurge": [
+        10,
+        100,
+        5,
+        "Physical",
+        "Water",
+        0
+    ],
+    "G-Max Stun Shock": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "G-Max Sweetness": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "G-Max Tartness": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "G-Max Terror": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "G-Max Vine Lash": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "G-Max Volcalith": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "G-Max Volt Crash": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "G-Max Wildfire": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "G-Max Wind Rage": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Grass Knot": [
+        0,
+        100,
+        20,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Grass Pledge": [
+        80,
+        100,
+        10,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Grass Whistle": [
+        0,
+        55,
+        15,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Grassy Glide": [
+        55,
+        100,
+        20,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Grassy Terrain": [
+        0,
+        100,
+        10,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Grav Apple": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Gravity": [
+        0,
+        100,
+        5,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Growl": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Growth": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Grudge": [
+        0,
+        100,
+        5,
+        "Status",
+        "Ghost",
+        0
+    ],
+    "Guardian of Alola": [
+        0,
+        100,
+        1,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Guard Split": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Guard Swap": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Guillotine": [
+        0,
+        30,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Gunk Shot": [
+        120,
+        80,
+        5,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Gust": [
+        40,
+        100,
+        35,
+        "Special",
+        "Flying",
+        0
+    ],
+    "Gyro Ball": [
+        0,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Hail": [
+        0,
+        100,
+        10,
+        "Status",
+        "Ice",
+        0
+    ],
+    "Hammer Arm": [
+        100,
+        90,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Happy Hour": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Harden": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Hard Press": [
+        0,
+        100,
+        10,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Haze": [
+        0,
+        100,
+        30,
+        "Status",
+        "Ice",
+        0
+    ],
+    "Headbutt": [
+        70,
+        100,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Head Charge": [
+        120,
+        100,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Headlong Rush": [
+        120,
+        100,
+        5,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Head Smash": [
+        150,
+        80,
+        5,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Heal Bell": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Heal Block": [
+        0,
+        100,
+        15,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Healing Wish": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Heal Order": [
+        0,
+        100,
+        10,
+        "Status",
+        "Bug",
+        0
+    ],
+    "Heal Pulse": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Heart Stamp": [
+        60,
+        100,
+        25,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "Heart Swap": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Heat Crash": [
+        0,
+        100,
+        10,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Heat Wave": [
+        95,
+        90,
+        10,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Heavy Slam": [
+        0,
+        100,
+        10,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Helping Hand": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        5
+    ],
+    "Hex": [
+        65,
+        100,
+        10,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Hidden Power": [
+        60,
+        100,
+        15,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Hidden Power Bug": [
+        60,
+        100,
+        15,
+        "Special",
+        "Bug",
+        0
+    ],
+    "Hidden Power Dark": [
+        60,
+        100,
+        15,
+        "Special",
+        "Dark",
+        0
+    ],
+    "Hidden Power Dragon": [
+        60,
+        100,
+        15,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Hidden Power Electric": [
+        60,
+        100,
+        15,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Hidden Power Fighting": [
+        60,
+        100,
+        15,
+        "Special",
+        "Fighting",
+        0
+    ],
+    "Hidden Power Fire": [
+        60,
+        100,
+        15,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Hidden Power Flying": [
+        60,
+        100,
+        15,
+        "Special",
+        "Flying",
+        0
+    ],
+    "Hidden Power Ghost": [
+        60,
+        100,
+        15,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Hidden Power Grass": [
+        60,
+        100,
+        15,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Hidden Power Ground": [
+        60,
+        100,
+        15,
+        "Special",
+        "Ground",
+        0
+    ],
+    "Hidden Power Ice": [
+        60,
+        100,
+        15,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Hidden Power Poison": [
+        60,
+        100,
+        15,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Hidden Power Psychic": [
+        60,
+        100,
+        15,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Hidden Power Rock": [
+        60,
+        100,
+        15,
+        "Special",
+        "Rock",
+        0
+    ],
+    "Hidden Power Steel": [
+        60,
+        100,
+        15,
+        "Special",
+        "Steel",
+        0
+    ],
+    "Hidden Power Water": [
+        60,
+        100,
+        15,
+        "Special",
+        "Water",
+        0
+    ],
+    "High Horsepower": [
+        95,
+        95,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "High Jump Kick": [
+        130,
+        90,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Hold Back": [
+        40,
+        100,
+        40,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Hold Hands": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Hone Claws": [
+        0,
+        100,
+        15,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Horn Attack": [
+        65,
+        100,
+        25,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Horn Drill": [
+        0,
+        30,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Horn Leech": [
+        75,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Howl": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Hurricane": [
+        110,
+        70,
+        10,
+        "Special",
+        "Flying",
+        0
+    ],
+    "Hydro Cannon": [
+        150,
+        90,
+        5,
+        "Special",
+        "Water",
+        0
+    ],
+    "Hydro Pump": [
+        110,
+        80,
+        5,
+        "Special",
+        "Water",
+        0
+    ],
+    "Hydro Steam": [
+        80,
+        100,
+        15,
+        "Special",
+        "Water",
+        0
+    ],
+    "Hydro Vortex": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Hyper Beam": [
+        150,
+        90,
+        5,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Hyper Drill": [
+        100,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Hyper Fang": [
+        80,
+        90,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Hyperspace Fury": [
+        100,
+        100,
+        5,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Hyperspace Hole": [
+        80,
+        100,
+        5,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Hyper Voice": [
+        90,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Hypnosis": [
+        0,
+        60,
+        20,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Ice Ball": [
+        30,
+        90,
+        20,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Ice Beam": [
+        90,
+        100,
+        10,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Ice Burn": [
+        140,
+        90,
+        5,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Ice Fang": [
+        65,
+        95,
+        15,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Ice Hammer": [
+        100,
+        90,
+        10,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Ice Punch": [
+        75,
+        100,
+        15,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Ice Shard": [
+        40,
+        100,
+        30,
+        "Physical",
+        "Ice",
+        1
+    ],
+    "Ice Spinner": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Icicle Crash": [
+        85,
+        90,
+        10,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Icicle Spear": [
+        25,
+        100,
+        30,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Icy Wind": [
+        55,
+        95,
+        15,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Imprison": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Incinerate": [
+        60,
+        100,
+        15,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Infernal Parade": [
+        60,
+        100,
+        15,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Inferno": [
+        100,
+        50,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Inferno Overdrive": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Infestation": [
+        20,
+        100,
+        20,
+        "Special",
+        "Bug",
+        0
+    ],
+    "Ingrain": [
+        0,
+        100,
+        20,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Instruct": [
+        0,
+        100,
+        15,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Ion Deluge": [
+        0,
+        100,
+        25,
+        "Status",
+        "Electric",
+        1
+    ],
+    "Iron Defense": [
+        0,
+        100,
+        15,
+        "Status",
+        "Steel",
+        0
+    ],
+    "Iron Head": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Iron Tail": [
+        100,
+        75,
+        15,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Ivy Cudgel": [
+        100,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Jaw Lock": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Jet Punch": [
+        60,
+        100,
+        15,
+        "Physical",
+        "Water",
+        1
+    ],
+    "Judgment": [
+        100,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Jump Kick": [
+        100,
+        95,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Jungle Healing": [
+        0,
+        100,
+        10,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Karate Chop": [
+        50,
+        100,
+        25,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Kinesis": [
+        0,
+        80,
+        15,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "King's Shield": [
+        0,
+        100,
+        10,
+        "Status",
+        "Steel",
+        4
+    ],
+    "Knock Off": [
+        65,
+        100,
+        20,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Kowtow Cleave": [
+        85,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Land's Wrath": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Laser Focus": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Lash Out": [
+        75,
+        100,
+        5,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Last Resort": [
+        140,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Last Respects": [
+        50,
+        100,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Lava Plume": [
+        80,
+        100,
+        15,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Leafage": [
+        40,
+        100,
+        40,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Leaf Blade": [
+        90,
+        100,
+        15,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Leaf Storm": [
+        130,
+        90,
+        5,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Leaf Tornado": [
+        65,
+        90,
+        10,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Leech Life": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Leech Seed": [
+        0,
+        90,
+        10,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Leer": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Let's Snuggle Forever": [
+        190,
+        100,
+        1,
+        "Physical",
+        "Fairy",
+        0
+    ],
+    "Lick": [
+        30,
+        100,
+        30,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Life Dew": [
+        0,
+        100,
+        10,
+        "Status",
+        "Water",
+        0
+    ],
+    "Light of Ruin": [
+        140,
+        90,
+        5,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Light Screen": [
+        0,
+        100,
+        30,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Light That Burns the Sky": [
+        200,
+        100,
+        1,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Liquidation": [
+        85,
+        100,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Lock-On": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Lovely Kiss": [
+        0,
+        75,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Low Kick": [
+        0,
+        100,
+        20,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Low Sweep": [
+        65,
+        100,
+        20,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Lucky Chant": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Lumina Crash": [
+        80,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Lunar Blessing": [
+        0,
+        100,
+        5,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Lunar Dance": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Lunge": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Luster Purge": [
+        95,
+        100,
+        5,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Mach Punch": [
+        40,
+        100,
+        30,
+        "Physical",
+        "Fighting",
+        1
+    ],
+    "Magical Leaf": [
+        60,
+        100,
+        20,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Magical Torque": [
+        100,
+        100,
+        10,
+        "Physical",
+        "Fairy",
+        0
+    ],
+    "Magic Coat": [
+        0,
+        100,
+        15,
+        "Status",
+        "Psychic",
+        4
+    ],
+    "Magic Powder": [
+        0,
+        100,
+        20,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Magic Room": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Magma Storm": [
+        100,
+        75,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Magnet Bomb": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Magnetic Flux": [
+        0,
+        100,
+        20,
+        "Status",
+        "Electric",
+        0
+    ],
+    "Magnet Rise": [
+        0,
+        100,
+        10,
+        "Status",
+        "Electric",
+        0
+    ],
+    "Magnitude": [
+        0,
+        100,
+        30,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Make It Rain": [
+        120,
+        100,
+        5,
+        "Special",
+        "Steel",
+        0
+    ],
+    "Malicious Moonsault": [
+        180,
+        100,
+        1,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Malignant Chain": [
+        100,
+        100,
+        5,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Mat Block": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fighting",
+        0
+    ],
+    "Matcha Gotcha": [
+        80,
+        90,
+        15,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Max Airstream": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Max Darkness": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Max Flare": [
+        100,
+        100,
+        10,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Max Flutterby": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Max Geyser": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Max Guard": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        4
+    ],
+    "Max Hailstorm": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Max Knuckle": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Max Lightning": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Max Mindstorm": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "Max Ooze": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Max Overgrowth": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Max Phantasm": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Max Quake": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Max Rockfall": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Max Starfall": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Fairy",
+        0
+    ],
+    "Max Steelspike": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Max Strike": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Max Wyrmwind": [
+        10,
+        100,
+        10,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Mean Look": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Meditate": [
+        0,
+        100,
+        40,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Me First": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Mega Drain": [
+        40,
+        100,
+        15,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Megahorn": [
+        120,
+        85,
+        10,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Mega Kick": [
+        120,
+        75,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Mega Punch": [
+        80,
+        85,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Memento": [
+        0,
+        100,
+        10,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Menacing Moonraze Maelstrom": [
+        200,
+        100,
+        1,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Metal Burst": [
+        0,
+        100,
+        10,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Metal Claw": [
+        50,
+        95,
+        35,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Metal Sound": [
+        0,
+        85,
+        40,
+        "Status",
+        "Steel",
+        0
+    ],
+    "Meteor Assault": [
+        150,
+        100,
+        5,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Meteor Beam": [
+        120,
+        90,
+        10,
+        "Special",
+        "Rock",
+        0
+    ],
+    "Meteor Mash": [
+        90,
+        90,
+        10,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Metronome": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Mighty Cleave": [
+        95,
+        100,
+        5,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Milk Drink": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Mimic": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Mind Blown": [
+        150,
+        100,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Mind Reader": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Minimize": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Miracle Eye": [
+        0,
+        100,
+        40,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Mirror Coat": [
+        0,
+        100,
+        20,
+        "Special",
+        "Psychic",
+        -5
+    ],
+    "Mirror Move": [
+        0,
+        100,
+        20,
+        "Status",
+        "Flying",
+        0
+    ],
+    "Mirror Shot": [
+        65,
+        85,
+        10,
+        "Special",
+        "Steel",
+        0
+    ],
+    "Mist": [
+        0,
+        100,
+        30,
+        "Status",
+        "Ice",
+        0
+    ],
+    "Mist Ball": [
+        95,
+        100,
+        5,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Misty Explosion": [
+        100,
+        100,
+        5,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Misty Terrain": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Moonblast": [
+        95,
+        100,
+        15,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Moongeist Beam": [
+        100,
+        100,
+        5,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Moonlight": [
+        0,
+        100,
+        5,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Morning Sun": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Mortal Spin": [
+        30,
+        100,
+        15,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Mountain Gale": [
+        100,
+        85,
+        10,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Mud Bomb": [
+        65,
+        85,
+        10,
+        "Special",
+        "Ground",
+        0
+    ],
+    "Muddy Water": [
+        90,
+        85,
+        10,
+        "Special",
+        "Water",
+        0
+    ],
+    "Mud Shot": [
+        55,
+        95,
+        15,
+        "Special",
+        "Ground",
+        0
+    ],
+    "Mud-Slap": [
+        20,
+        100,
+        10,
+        "Special",
+        "Ground",
+        0
+    ],
+    "Mud Sport": [
+        0,
+        100,
+        15,
+        "Status",
+        "Ground",
+        0
+    ],
+    "Multi-Attack": [
+        120,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Mystical Fire": [
+        75,
+        100,
+        10,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Mystical Power": [
+        70,
+        90,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Nasty Plot": [
+        0,
+        100,
+        20,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Natural Gift": [
+        0,
+        100,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Nature Power": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Nature's Madness": [
+        0,
+        90,
+        10,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Needle Arm": [
+        60,
+        100,
+        15,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Never-Ending Nightmare": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Night Daze": [
+        85,
+        95,
+        10,
+        "Special",
+        "Dark",
+        0
+    ],
+    "Nightmare": [
+        0,
+        100,
+        15,
+        "Status",
+        "Ghost",
+        0
+    ],
+    "Night Shade": [
+        0,
+        100,
+        15,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Night Slash": [
+        70,
+        100,
+        15,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Nihil Light": [
+        100,
+        100,
+        10,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Noble Roar": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "No Retreat": [
+        0,
+        100,
+        5,
+        "Status",
+        "Fighting",
+        0
+    ],
+    "Noxious Torque": [
+        100,
+        100,
+        10,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Nuzzle": [
+        20,
+        100,
+        20,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Oblivion Wing": [
+        80,
+        100,
+        10,
+        "Special",
+        "Flying",
+        0
+    ],
+    "Obstruct": [
+        0,
+        100,
+        10,
+        "Status",
+        "Dark",
+        4
+    ],
+    "Oceanic Operetta": [
+        195,
+        100,
+        1,
+        "Special",
+        "Water",
+        0
+    ],
+    "Octazooka": [
+        65,
+        85,
+        10,
+        "Special",
+        "Water",
+        0
+    ],
+    "Octolock": [
+        0,
+        100,
+        15,
+        "Status",
+        "Fighting",
+        0
+    ],
+    "Odor Sleuth": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Ominous Wind": [
+        60,
+        100,
+        5,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Order Up": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Origin Pulse": [
+        110,
+        85,
+        10,
+        "Special",
+        "Water",
+        0
+    ],
+    "Outrage": [
+        120,
+        100,
+        10,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Overdrive": [
+        80,
+        100,
+        10,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Overheat": [
+        130,
+        90,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Pain Split": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Parabolic Charge": [
+        65,
+        100,
+        20,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Parting Shot": [
+        0,
+        100,
+        20,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Payback": [
+        50,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Pay Day": [
+        40,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Peck": [
+        35,
+        100,
+        35,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Perish Song": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Petal Blizzard": [
+        90,
+        100,
+        15,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Petal Dance": [
+        120,
+        100,
+        10,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Phantom Force": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Photon Geyser": [
+        100,
+        100,
+        5,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Pika Papow": [
+        0,
+        100,
+        20,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Pin Missile": [
+        25,
+        95,
+        20,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Plasma Fists": [
+        100,
+        100,
+        15,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Play Nice": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Play Rough": [
+        90,
+        90,
+        10,
+        "Physical",
+        "Fairy",
+        0
+    ],
+    "Pluck": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Poison Fang": [
+        50,
+        100,
+        15,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Poison Gas": [
+        0,
+        90,
+        40,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Poison Jab": [
+        80,
+        100,
+        20,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Poison Powder": [
+        0,
+        75,
+        35,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Poison Sting": [
+        15,
+        100,
+        35,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Poison Tail": [
+        50,
+        100,
+        25,
+        "Physical",
+        "Poison",
+        0
+    ],
+    "Pollen Puff": [
+        90,
+        100,
+        15,
+        "Special",
+        "Bug",
+        0
+    ],
+    "Poltergeist": [
+        110,
+        90,
+        5,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Population Bomb": [
+        20,
+        90,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Pounce": [
+        50,
+        100,
+        20,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Pound": [
+        40,
+        100,
+        35,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Powder": [
+        0,
+        100,
+        20,
+        "Status",
+        "Bug",
+        1
+    ],
+    "Powder Snow": [
+        40,
+        100,
+        25,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Power Gem": [
+        80,
+        100,
+        20,
+        "Special",
+        "Rock",
+        0
+    ],
+    "Power Shift": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Power Split": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Power Swap": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Power Trick": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Power Trip": [
+        20,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Power-Up Punch": [
+        40,
+        100,
+        20,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Power Whip": [
+        120,
+        85,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Precipice Blades": [
+        120,
+        85,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Present": [
+        0,
+        90,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Prismatic Laser": [
+        160,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Protect": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        4
+    ],
+    "Psybeam": [
+        65,
+        100,
+        20,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Psyblade": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "Psychic": [
+        90,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Psychic Fangs": [
+        85,
+        100,
+        10,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "Psychic Noise": [
+        75,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Psychic Terrain": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Psycho Boost": [
+        140,
+        90,
+        5,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Psycho Cut": [
+        70,
+        100,
+        20,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "Psycho Shift": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Psych Up": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Psyshield Bash": [
+        70,
+        90,
+        10,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "Psyshock": [
+        80,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Psystrike": [
+        100,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Psywave": [
+        0,
+        100,
+        15,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Pulverizing Pancake": [
+        210,
+        100,
+        1,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Punishment": [
+        0,
+        100,
+        5,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Purify": [
+        0,
+        100,
+        20,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Pursuit": [
+        40,
+        100,
+        20,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Pyro Ball": [
+        120,
+        90,
+        5,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Quash": [
+        0,
+        100,
+        15,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Quick Attack": [
+        40,
+        100,
+        30,
+        "Physical",
+        "Normal",
+        1
+    ],
+    "Quick Guard": [
+        0,
+        100,
+        15,
+        "Status",
+        "Fighting",
+        3
+    ],
+    "Quiver Dance": [
+        0,
+        100,
+        20,
+        "Status",
+        "Bug",
+        0
+    ],
+    "Rage": [
+        20,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Rage Fist": [
+        50,
+        100,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Rage Powder": [
+        0,
+        100,
+        20,
+        "Status",
+        "Bug",
+        2
+    ],
+    "Raging Bull": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Raging Fury": [
+        120,
+        100,
+        10,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Rain Dance": [
+        0,
+        100,
+        5,
+        "Status",
+        "Water",
+        0
+    ],
+    "Rapid Spin": [
+        50,
+        100,
+        40,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Razor Leaf": [
+        55,
+        95,
+        25,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Razor Shell": [
+        75,
+        95,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Razor Wind": [
+        80,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Recover": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Recycle": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Reflect": [
+        0,
+        100,
+        20,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Reflect Type": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Refresh": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Relic Song": [
+        75,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Rest": [
+        0,
+        100,
+        5,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Retaliate": [
+        70,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Return": [
+        0,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Revelation Dance": [
+        90,
+        100,
+        15,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Revenge": [
+        60,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        -4
+    ],
+    "Reversal": [
+        0,
+        100,
+        15,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Revival Blessing": [
+        0,
+        100,
+        1,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Rising Voltage": [
+        70,
+        100,
+        20,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Roar": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        -6
+    ],
+    "Roar of Time": [
+        150,
+        90,
+        5,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Rock Blast": [
+        25,
+        90,
+        10,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Rock Climb": [
+        90,
+        85,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Rock Polish": [
+        0,
+        100,
+        20,
+        "Status",
+        "Rock",
+        0
+    ],
+    "Rock Slide": [
+        75,
+        90,
+        10,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Rock Smash": [
+        40,
+        100,
+        15,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Rock Throw": [
+        50,
+        90,
+        15,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Rock Tomb": [
+        60,
+        95,
+        15,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Rock Wrecker": [
+        150,
+        90,
+        5,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Role Play": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Rolling Kick": [
+        60,
+        85,
+        15,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Rollout": [
+        30,
+        90,
+        20,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Roost": [
+        0,
+        100,
+        5,
+        "Status",
+        "Flying",
+        0
+    ],
+    "Rototiller": [
+        0,
+        100,
+        10,
+        "Status",
+        "Ground",
+        0
+    ],
+    "Round": [
+        60,
+        100,
+        15,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Ruination": [
+        0,
+        90,
+        10,
+        "Special",
+        "Dark",
+        0
+    ],
+    "Sacred Fire": [
+        100,
+        95,
+        5,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Sacred Sword": [
+        90,
+        100,
+        15,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Safeguard": [
+        0,
+        100,
+        25,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Salt Cure": [
+        40,
+        100,
+        15,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Sand Attack": [
+        0,
+        100,
+        15,
+        "Status",
+        "Ground",
+        0
+    ],
+    "Sandsear Storm": [
+        100,
+        80,
+        10,
+        "Special",
+        "Ground",
+        0
+    ],
+    "Sandstorm": [
+        0,
+        100,
+        10,
+        "Status",
+        "Rock",
+        0
+    ],
+    "Sand Tomb": [
+        35,
+        85,
+        15,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Sappy Seed": [
+        100,
+        90,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Savage Spin-Out": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Scald": [
+        80,
+        100,
+        15,
+        "Special",
+        "Water",
+        0
+    ],
+    "Scale Shot": [
+        25,
+        90,
+        20,
+        "Physical",
+        "Dragon",
+        0
+    ],
+    "Scary Face": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Scorching Sands": [
+        70,
+        100,
+        10,
+        "Special",
+        "Ground",
+        0
+    ],
+    "Scratch": [
+        40,
+        100,
+        35,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Screech": [
+        0,
+        85,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Searing Shot": [
+        100,
+        100,
+        5,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Searing Sunraze Smash": [
+        200,
+        100,
+        1,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Secret Power": [
+        70,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Secret Sword": [
+        85,
+        100,
+        10,
+        "Special",
+        "Fighting",
+        0
+    ],
+    "Seed Bomb": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Seed Flare": [
+        120,
+        85,
+        5,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Seismic Toss": [
+        0,
+        100,
+        20,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Self-Destruct": [
+        200,
+        100,
+        5,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Shadow Ball": [
+        80,
+        100,
+        15,
+        "Special",
+        "Ghost",
+        0
+    ],
+    "Shadow Bone": [
+        85,
+        100,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Shadow Claw": [
+        70,
+        100,
+        15,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Shadow Force": [
+        120,
+        100,
+        5,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Shadow Punch": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Shadow Sneak": [
+        40,
+        100,
+        30,
+        "Physical",
+        "Ghost",
+        1
+    ],
+    "Sharpen": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Shattered Psyche": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "Shed Tail": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Sheer Cold": [
+        0,
+        30,
+        5,
+        "Special",
+        "Ice",
+        0
+    ],
+    "Shell Side Arm": [
+        90,
+        100,
+        10,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Shell Smash": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Shell Trap": [
+        150,
+        100,
+        5,
+        "Special",
+        "Fire",
+        -3
+    ],
+    "Shelter": [
+        0,
+        100,
+        10,
+        "Status",
+        "Steel",
+        0
+    ],
+    "Shift Gear": [
+        0,
+        100,
+        10,
+        "Status",
+        "Steel",
+        0
+    ],
+    "Shock Wave": [
+        60,
+        100,
+        20,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Shore Up": [
+        0,
+        100,
+        5,
+        "Status",
+        "Ground",
+        0
+    ],
+    "Signal Beam": [
+        75,
+        100,
+        15,
+        "Special",
+        "Bug",
+        0
+    ],
+    "Silk Trap": [
+        0,
+        100,
+        10,
+        "Status",
+        "Bug",
+        4
+    ],
+    "Silver Wind": [
+        60,
+        100,
+        5,
+        "Special",
+        "Bug",
+        0
+    ],
+    "Simple Beam": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Sing": [
+        0,
+        55,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Sinister Arrow Raid": [
+        180,
+        100,
+        1,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Sizzly Slide": [
+        60,
+        100,
+        20,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Sketch": [
+        0,
+        100,
+        1,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Skill Swap": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Skitter Smack": [
+        70,
+        90,
+        10,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Skull Bash": [
+        130,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Sky Attack": [
+        140,
+        90,
+        5,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Sky Drop": [
+        60,
+        100,
+        10,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Sky Uppercut": [
+        85,
+        90,
+        15,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Slack Off": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Slam": [
+        80,
+        75,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Slash": [
+        70,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Sleep Powder": [
+        0,
+        75,
+        15,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Sleep Talk": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Sludge": [
+        65,
+        100,
+        20,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Sludge Bomb": [
+        90,
+        100,
+        10,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Sludge Wave": [
+        95,
+        100,
+        10,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Smack Down": [
+        50,
+        100,
+        15,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Smart Strike": [
+        70,
+        100,
+        10,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Smelling Salts": [
+        70,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Smog": [
+        30,
+        70,
+        20,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Smokescreen": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Snap Trap": [
+        35,
+        100,
+        15,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Snarl": [
+        55,
+        95,
+        15,
+        "Special",
+        "Dark",
+        0
+    ],
+    "Snatch": [
+        0,
+        100,
+        10,
+        "Status",
+        "Dark",
+        4
+    ],
+    "Snipe Shot": [
+        80,
+        100,
+        15,
+        "Special",
+        "Water",
+        0
+    ],
+    "Snore": [
+        50,
+        100,
+        15,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Snowscape": [
+        0,
+        100,
+        10,
+        "Status",
+        "Ice",
+        0
+    ],
+    "Soak": [
+        0,
+        100,
+        20,
+        "Status",
+        "Water",
+        0
+    ],
+    "Soft-Boiled": [
+        0,
+        100,
+        5,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Solar Beam": [
+        120,
+        100,
+        10,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Solar Blade": [
+        125,
+        100,
+        10,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Sonic Boom": [
+        0,
+        90,
+        20,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Soul-Stealing 7-Star Strike": [
+        195,
+        100,
+        1,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Spacial Rend": [
+        100,
+        95,
+        5,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Spark": [
+        65,
+        100,
+        20,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Sparkling Aria": [
+        90,
+        100,
+        10,
+        "Special",
+        "Water",
+        0
+    ],
+    "Sparkly Swirl": [
+        120,
+        85,
+        5,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Spectral Thief": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Speed Swap": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Spicy Extract": [
+        0,
+        100,
+        15,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Spider Web": [
+        0,
+        100,
+        10,
+        "Status",
+        "Bug",
+        0
+    ],
+    "Spike Cannon": [
+        20,
+        100,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Spikes": [
+        0,
+        100,
+        20,
+        "Status",
+        "Ground",
+        0
+    ],
+    "Spiky Shield": [
+        0,
+        100,
+        10,
+        "Status",
+        "Grass",
+        4
+    ],
+    "Spin Out": [
+        100,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Spirit Break": [
+        75,
+        100,
+        15,
+        "Physical",
+        "Fairy",
+        0
+    ],
+    "Spirit Shackle": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Spite": [
+        0,
+        100,
+        10,
+        "Status",
+        "Ghost",
+        0
+    ],
+    "Spit Up": [
+        0,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Splash": [
+        0,
+        100,
+        40,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Splintered Stormshards": [
+        190,
+        100,
+        1,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Splishy Splash": [
+        90,
+        100,
+        15,
+        "Special",
+        "Water",
+        0
+    ],
+    "Spore": [
+        0,
+        100,
+        15,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Spotlight": [
+        0,
+        100,
+        15,
+        "Status",
+        "Normal",
+        3
+    ],
+    "Springtide Storm": [
+        100,
+        80,
+        5,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Stealth Rock": [
+        0,
+        100,
+        20,
+        "Status",
+        "Rock",
+        0
+    ],
+    "Steam Eruption": [
+        110,
+        95,
+        5,
+        "Special",
+        "Water",
+        0
+    ],
+    "Steamroller": [
+        65,
+        100,
+        20,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Steel Beam": [
+        140,
+        95,
+        5,
+        "Special",
+        "Steel",
+        0
+    ],
+    "Steel Roller": [
+        130,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Steel Wing": [
+        70,
+        90,
+        25,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Sticky Web": [
+        0,
+        100,
+        20,
+        "Status",
+        "Bug",
+        0
+    ],
+    "Stockpile": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Stoked Sparksurfer": [
+        175,
+        100,
+        1,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Stomp": [
+        65,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Stomping Tantrum": [
+        75,
+        100,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Stone Axe": [
+        65,
+        90,
+        15,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Stone Edge": [
+        100,
+        80,
+        5,
+        "Physical",
+        "Rock",
+        0
+    ],
+    "Stored Power": [
+        20,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Storm Throw": [
+        60,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Strange Steam": [
+        90,
+        95,
+        10,
+        "Special",
+        "Fairy",
+        0
+    ],
+    "Strength": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Strength Sap": [
+        0,
+        100,
+        10,
+        "Status",
+        "Grass",
+        0
+    ],
+    "String Shot": [
+        0,
+        95,
+        40,
+        "Status",
+        "Bug",
+        0
+    ],
+    "Struggle": [
+        50,
+        100,
+        1,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Struggle Bug": [
+        50,
+        100,
+        20,
+        "Special",
+        "Bug",
+        0
+    ],
+    "Stuff Cheeks": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Stun Spore": [
+        0,
+        75,
+        30,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Submission": [
+        80,
+        80,
+        20,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Substitute": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Subzero Slammer": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Sucker Punch": [
+        70,
+        100,
+        5,
+        "Physical",
+        "Dark",
+        1
+    ],
+    "Sunny Day": [
+        0,
+        100,
+        5,
+        "Status",
+        "Fire",
+        0
+    ],
+    "Sunsteel Strike": [
+        100,
+        100,
+        5,
+        "Physical",
+        "Steel",
+        0
+    ],
+    "Supercell Slam": [
+        100,
+        95,
+        15,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Super Fang": [
+        0,
+        90,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Superpower": [
+        120,
+        100,
+        5,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Supersonic": [
+        0,
+        55,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Supersonic Skystrike": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Surf": [
+        90,
+        100,
+        15,
+        "Special",
+        "Water",
+        0
+    ],
+    "Surging Strikes": [
+        25,
+        100,
+        5,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Swagger": [
+        0,
+        85,
+        15,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Swallow": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Sweet Kiss": [
+        0,
+        75,
+        10,
+        "Status",
+        "Fairy",
+        0
+    ],
+    "Sweet Scent": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Swift": [
+        60,
+        100,
+        20,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Switcheroo": [
+        0,
+        100,
+        10,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Swords Dance": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Synchronoise": [
+        120,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Synthesis": [
+        0,
+        100,
+        5,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Syrup Bomb": [
+        60,
+        85,
+        10,
+        "Special",
+        "Grass",
+        0
+    ],
+    "Tachyon Cutter": [
+        50,
+        100,
+        10,
+        "Special",
+        "Steel",
+        0
+    ],
+    "Tackle": [
+        40,
+        100,
+        35,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Tail Glow": [
+        0,
+        100,
+        20,
+        "Status",
+        "Bug",
+        0
+    ],
+    "Tail Slap": [
+        25,
+        85,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Tail Whip": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Tailwind": [
+        0,
+        100,
+        15,
+        "Status",
+        "Flying",
+        0
+    ],
+    "Take Down": [
+        90,
+        85,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Take Heart": [
+        0,
+        100,
+        15,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Tar Shot": [
+        0,
+        100,
+        15,
+        "Status",
+        "Rock",
+        0
+    ],
+    "Taunt": [
+        0,
+        100,
+        20,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Tearful Look": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Teatime": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Techno Blast": [
+        120,
+        100,
+        5,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Tectonic Rage": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Teeter Dance": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Telekinesis": [
+        0,
+        100,
+        15,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Teleport": [
+        0,
+        100,
+        20,
+        "Status",
+        "Psychic",
+        -6
+    ],
+    "Temper Flare": [
+        75,
+        100,
+        10,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Tera Blast": [
+        80,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Tera Starstorm": [
+        120,
+        100,
+        5,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Terrain Pulse": [
+        50,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Thief": [
+        60,
+        100,
+        25,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Thousand Arrows": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Thousand Waves": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Ground",
+        0
+    ],
+    "Thrash": [
+        120,
+        100,
+        10,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Throat Chop": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Thunder": [
+        110,
+        70,
+        10,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Thunderbolt": [
+        90,
+        100,
+        15,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Thunder Cage": [
+        80,
+        90,
+        15,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Thunderclap": [
+        70,
+        100,
+        5,
+        "Special",
+        "Electric",
+        1
+    ],
+    "Thunder Fang": [
+        65,
+        95,
+        15,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Thunderous Kick": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Thunder Punch": [
+        75,
+        100,
+        15,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Thunder Shock": [
+        40,
+        100,
+        30,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Thunder Wave": [
+        0,
+        90,
+        20,
+        "Status",
+        "Electric",
+        0
+    ],
+    "Tickle": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Tidy Up": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Topsy-Turvy": [
+        0,
+        100,
+        20,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Torch Song": [
+        80,
+        100,
+        10,
+        "Special",
+        "Fire",
+        0
+    ],
+    "Torment": [
+        0,
+        100,
+        15,
+        "Status",
+        "Dark",
+        0
+    ],
+    "Toxic": [
+        0,
+        90,
+        10,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Toxic Spikes": [
+        0,
+        100,
+        20,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Toxic Thread": [
+        0,
+        100,
+        20,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Trailblaze": [
+        50,
+        100,
+        20,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Transform": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Tri Attack": [
+        80,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Trick": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Trick-or-Treat": [
+        0,
+        100,
+        20,
+        "Status",
+        "Ghost",
+        0
+    ],
+    "Trick Room": [
+        0,
+        100,
+        5,
+        "Status",
+        "Psychic",
+        -7
+    ],
+    "Triple Arrows": [
+        90,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Triple Axel": [
+        20,
+        90,
+        10,
+        "Physical",
+        "Ice",
+        0
+    ],
+    "Triple Dive": [
+        30,
+        95,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Triple Kick": [
+        10,
+        90,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Trop Kick": [
+        70,
+        100,
+        15,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Trump Card": [
+        0,
+        100,
+        5,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Twin Beam": [
+        40,
+        100,
+        10,
+        "Special",
+        "Psychic",
+        0
+    ],
+    "Twineedle": [
+        25,
+        100,
+        20,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Twinkle Tackle": [
+        1,
+        100,
+        1,
+        "Physical",
+        "Fairy",
+        0
+    ],
+    "Twister": [
+        40,
+        100,
+        20,
+        "Special",
+        "Dragon",
+        0
+    ],
+    "Upper Hand": [
+        65,
+        100,
+        15,
+        "Physical",
+        "Fighting",
+        3
+    ],
+    "Uproar": [
+        90,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "U-turn": [
+        70,
+        100,
+        20,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Vacuum Wave": [
+        40,
+        100,
+        30,
+        "Special",
+        "Fighting",
+        1
+    ],
+    "V-create": [
+        180,
+        95,
+        5,
+        "Physical",
+        "Fire",
+        0
+    ],
+    "Veevee Volley": [
+        0,
+        100,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Venom Drench": [
+        0,
+        100,
+        20,
+        "Status",
+        "Poison",
+        0
+    ],
+    "Venoshock": [
+        65,
+        100,
+        10,
+        "Special",
+        "Poison",
+        0
+    ],
+    "Victory Dance": [
+        0,
+        100,
+        10,
+        "Status",
+        "Fighting",
+        0
+    ],
+    "Vine Whip": [
+        45,
+        100,
+        25,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Vise Grip": [
+        55,
+        100,
+        30,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Vital Throw": [
+        70,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        -1
+    ],
+    "Volt Switch": [
+        70,
+        100,
+        20,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Volt Tackle": [
+        120,
+        100,
+        15,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Wake-Up Slap": [
+        70,
+        100,
+        10,
+        "Physical",
+        "Fighting",
+        0
+    ],
+    "Waterfall": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Water Gun": [
+        40,
+        100,
+        25,
+        "Special",
+        "Water",
+        0
+    ],
+    "Water Pledge": [
+        80,
+        100,
+        10,
+        "Special",
+        "Water",
+        0
+    ],
+    "Water Pulse": [
+        60,
+        100,
+        20,
+        "Special",
+        "Water",
+        0
+    ],
+    "Water Shuriken": [
+        15,
+        100,
+        20,
+        "Special",
+        "Water",
+        1
+    ],
+    "Water Sport": [
+        0,
+        100,
+        15,
+        "Status",
+        "Water",
+        0
+    ],
+    "Water Spout": [
+        150,
+        100,
+        5,
+        "Special",
+        "Water",
+        0
+    ],
+    "Wave Crash": [
+        120,
+        100,
+        10,
+        "Physical",
+        "Water",
+        0
+    ],
+    "Weather Ball": [
+        50,
+        100,
+        10,
+        "Special",
+        "Normal",
+        0
+    ],
+    "Whirlpool": [
+        35,
+        85,
+        15,
+        "Special",
+        "Water",
+        0
+    ],
+    "Whirlwind": [
+        0,
+        100,
+        20,
+        "Status",
+        "Normal",
+        -6
+    ],
+    "Wicked Blow": [
+        75,
+        100,
+        5,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Wicked Torque": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Dark",
+        0
+    ],
+    "Wide Guard": [
+        0,
+        100,
+        10,
+        "Status",
+        "Rock",
+        3
+    ],
+    "Wildbolt Storm": [
+        100,
+        80,
+        10,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Wild Charge": [
+        90,
+        100,
+        15,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Will-O-Wisp": [
+        0,
+        85,
+        15,
+        "Status",
+        "Fire",
+        0
+    ],
+    "Wing Attack": [
+        60,
+        100,
+        35,
+        "Physical",
+        "Flying",
+        0
+    ],
+    "Wish": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Withdraw": [
+        0,
+        100,
+        40,
+        "Status",
+        "Water",
+        0
+    ],
+    "Wonder Room": [
+        0,
+        100,
+        10,
+        "Status",
+        "Psychic",
+        0
+    ],
+    "Wood Hammer": [
+        120,
+        100,
+        15,
+        "Physical",
+        "Grass",
+        0
+    ],
+    "Work Up": [
+        0,
+        100,
+        30,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Worry Seed": [
+        0,
+        100,
+        10,
+        "Status",
+        "Grass",
+        0
+    ],
+    "Wrap": [
+        15,
+        90,
+        20,
+        "Physical",
+        "Normal",
+        0
+    ],
+    "Wring Out": [
+        0,
+        100,
+        5,
+        "Special",
+        "Normal",
+        0
+    ],
+    "X-Scissor": [
+        80,
+        100,
+        15,
+        "Physical",
+        "Bug",
+        0
+    ],
+    "Yawn": [
+        0,
+        100,
+        10,
+        "Status",
+        "Normal",
+        0
+    ],
+    "Zap Cannon": [
+        120,
+        50,
+        5,
+        "Special",
+        "Electric",
+        0
+    ],
+    "Zen Headbutt": [
+        80,
+        90,
+        15,
+        "Physical",
+        "Psychic",
+        0
+    ],
+    "Zing Zap": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Electric",
+        0
+    ],
+    "Zippy Zap": [
+        80,
+        100,
+        10,
+        "Physical",
+        "Electric",
+        2
+    ],
+    "Paleo Wave": [
+        85,
+        100,
+        15,
+        "Special",
+        "Rock",
+        0
+    ],
+    "Shadow Strike": [
+        80,
+        95,
+        10,
+        "Physical",
+        "Ghost",
+        0
+    ],
+    "Polar Flare": [
+        75,
+        100,
+        10,
+        "Special",
+        "Fire",
+        0
+    ]
+}
