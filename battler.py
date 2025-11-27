@@ -40,18 +40,34 @@ def turn(pokemon, target, move):
         else:
                 if move.stat != {}:
                     for stat in move.stat:
-                        slow_print(f"{pokemon.name} raised it's {stat} by {move.stat[stat]} stages!")
-                        match stat:
-                            case("atk"):
-                                pokemon.raise_atk(move.stat[stat])
-                            case("dfs"):
-                                pokemon.raise_dfs(move.stat[stat])
-                            case("spa"):
-                                pokemon.raise_spa(move.stat[stat])
-                            case("spd"):
-                                pokemon.raise_spd(move.stat[stat])
-                            case("spe"):
-                                pokemon.raise_spe(move.stat[stat])
+                        match move.target:
+                            case("self"):
+                                slow_print(f"{pokemon.name} raised it's {stat} by {move.stat[stat]} stages!")
+                                match stat:
+                                    case("atk"):
+                                        pokemon.raise_atk(move.stat[stat])
+                                    case("dfs"):
+                                        pokemon.raise_dfs(move.stat[stat])
+                                    case("spa"):
+                                        pokemon.raise_spa(move.stat[stat])
+                                    case("spd"):
+                                        pokemon.raise_spd(move.stat[stat])
+                                    case("spe"):
+                                        pokemon.raise_spe(move.stat[stat])
+                            case("allAdjacentFoes"):
+                                slow_print(f"{pokemon.name} lowered {target.name}'s {stat} by {move.stat[stat]} stages!")
+                                match stat:
+                                    case("atk"):
+                                        target.raise_atk(move.stat[stat])
+                                    case("dfs"):
+                                        target.raise_dfs(move.stat[stat])
+                                    case("spa"):
+                                        target.raise_spa(move.stat[stat])
+                                    case("spd"):
+                                        target.raise_spd(move.stat[stat])
+                                    case("spe"):
+                                        target.raise_spe(move.stat[stat])
+
                                   
 
 def battle(pokemon1, pokemon2):
