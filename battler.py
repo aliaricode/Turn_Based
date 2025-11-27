@@ -14,7 +14,7 @@ def damage_calc(pokemon1, pokemon2, used_attack):
          raise ValueError("this is not a damage move!")
     lvl = pokemon1.lvl
     if random.randint(0, 100) >= 95:
-         lvl = lvl * 2
+        lvl = lvl * 2
     damage = round(((2 * lvl + 5) * used_attack.pwr * atk) / (dfs * 50))
     if used_attack.type in pokemon1.type:
         damage = round(damage * 1.5)
@@ -38,7 +38,21 @@ def turn(pokemon, target, move):
             else:
                 slow_print(f"{pokemon.name} missed like an idiot lmao what a loser")
         else:
-                slow_print("not yet implemented")
+                if move.stat != {}:
+                    for stat in move.stat:
+                        slow_print(f"{pokemon.name} raised it's {stat} by {move.stat[stat]} stages!")
+                        match stat:
+                            case("atk"):
+                                pokemon.raise_atk(move.stat[stat])
+                            case("dfs"):
+                                pokemon.raise_dfs(move.stat[stat])
+                            case("spa"):
+                                pokemon.raise_spa(move.stat[stat])
+                            case("spd"):
+                                pokemon.raise_spd(move.stat[stat])
+                            case("spe"):
+                                pokemon.raise_spe(move.stat[stat])
+                                  
 
 def battle(pokemon1, pokemon2):
 

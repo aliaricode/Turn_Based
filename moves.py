@@ -22,6 +22,10 @@ class Move:
             self.category = "Status"
             self.type = "Normal"
             self.prio = 0
+            self.stat = {}
+            self.status = "None"
+            self.target = "normal"
+            self.flags = {}
             return
         
         base = MOVES_DB[name]
@@ -32,3 +36,7 @@ class Move:
         self.category = base[3]
         self.type = base[4]
         self.prio = base[5]
+        self.stat = base[6]
+        self.status = base[7]
+        self.target = base[8]
+        self.flags = base[9]

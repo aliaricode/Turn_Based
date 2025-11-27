@@ -1,6 +1,6 @@
 import time
 
-FAST_MODE = False
+FAST_MODE = True
 
 def slow_print(text):
     global FAST_MODE
