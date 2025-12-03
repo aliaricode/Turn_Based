@@ -43,30 +43,13 @@ def turn(pokemon, target, move):
                         match move.target:
                             case("self"):
                                 slow_print(f"{pokemon.name} raised it's {stat} by {move.stat[stat]} stages!")
-                                match stat:
-                                    case("atk"):
-                                        pokemon.raise_atk(move.stat[stat])
-                                    case("dfs"):
-                                        pokemon.raise_dfs(move.stat[stat])
-                                    case("spa"):
-                                        pokemon.raise_spa(move.stat[stat])
-                                    case("spd"):
-                                        pokemon.raise_spd(move.stat[stat])
-                                    case("spe"):
-                                        pokemon.raise_spe(move.stat[stat])
+                                pokemon.change_stat(stat, move.stat[stat])
                             case("allAdjacentFoes"):
-                                slow_print(f"{pokemon.name} lowered {target.name}'s {stat} by {move.stat[stat]} stages!")
-                                match stat:
-                                    case("atk"):
-                                        target.raise_atk(move.stat[stat])
-                                    case("dfs"):
-                                        target.raise_dfs(move.stat[stat])
-                                    case("spa"):
-                                        target.raise_spa(move.stat[stat])
-                                    case("spd"):
-                                        target.raise_spd(move.stat[stat])
-                                    case("spe"):
-                                        target.raise_spe(move.stat[stat])
+                                slow_print(f"{pokemon.name} lowered {target.name}'s {stat} by {-1 * (move.stat[stat])} stages!")
+                                target.change_stat(stat, move.stat[stat])
+
+                            case(__):
+                                slow_print("not yet implemented")
 
                                   
 
