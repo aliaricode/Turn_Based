@@ -48,53 +48,20 @@ class Pokemon:
         self.spe = (base[5] * 2 * self.lvl // 100 + 5)
     
     def get_base_stat(self, stat):
-        match stat:
-            case("hp"):
-                return self.base_hp
-            case("atk"):
-                return self.base_atk
-            case("dfs"):
-                return self.base_dfs
-            case("spa"):
-                return self.base_spa
-            case("spd"):
-                return self.base_spd
-            case("spe"):
-                return self.base_spe
+        return getattr(self, f"base_{stat}")
         
     def get_stat(self, stat):
-        match stat:
-            case("hp"):
-                return self.hp
-            case("atk"):
-                return self.atk
-            case("dfs"):
-                return self.dfs
-            case("spa"):
-                return self.spa
-            case("spd"):
-                return self.spd
-            case("spe"):
-                return self.spe
+        return getattr(self, stat)
 
     def change_stat(self, stat, stage):
-        if self.get_stat(stat) > (3 * self.get_base_stat(stat) * 2 * self.lvl // 100 + 5) and stage > 0:
+        if getattr(self, stat) > (3 * getattr(self, f"base_{stat}") * 2 * self.lvl // 100 + 5) and stage > 0:
             slow_print(f"{self.name}'s {stat} can't get raised anymore!")
-        elif self.get_stat(stat) < (self.get_base_stat(stat) * 2 * self.lvl // 100 + 5) / 3 and stage < 0:
+        elif getattr(self, stat) < (getattr(self, f"base_{stat}") * 2 * self.lvl // 100 + 5) / 3 and stage < 0:
             slow_print(f"{self.name}'s {stat} can't get lowered anymore!")
         else:
-          match stat:
-            case("atk"):
-                self.atk += self.atk * (stage * 0.5)
-            case("dfs"):
-                self.dfs += self.dfs * (stage * 0.5)
-            case("spa"):
-                self.spa += self.spa * (stage * 0.5)
-            case("spd"):
-                self.spd += self.spd * (stage * 0.5)
-            case("spe"):
-                self.spe += self.spe * (stage * 0.5)
-
+            current = getattr(self, stat)
+            new_value = current + current * (stage * 0.5)
+            setattr(self, stat, new_value)
 
     def heal(self, amount):
         self.hp += amount
