@@ -25,7 +25,7 @@ def damage_calc(pokemon1, pokemon2, used_attack):
     damage = damage * effectivness(used_attack.type, pokemon2.type)
     damage = round(damage * (random.randint(85, 100) / 100))
     if damage > pokemon2.hp:
-         damage = pokemon2.hp
+        damage = pokemon2.hp
     return damage
 
 def turn(pokemon, target, move):
@@ -56,38 +56,33 @@ def turn(pokemon, target, move):
                             case(__):
                                 slow_print("not yet implemented")
 
-def switch_pokemon(pokelist):
-    while True:
-        subprocess.run('clear')
-        for index, pokemon in enumerate(pokelist, 1):
-            print(f"{index} -- {pokemon.name}")
-        slow_print("Which pokemon do you want to switch to?")
-
-        try:
-            choice = int(input("-> "))
-            if 6 >= choice and choice >= 1:
-                if pokelist[choice - 1].name == "None":
-                    slow_print("Selected slot is empty!")
-                elif pokelist[choice - 1].hp == 0:
-                    slow_print("Selected pokemon is already fainted!")
-                else:
-                    return pokelist[choice - 1]
+def sequence_set(pokemon1, pokemon2):        
+    if pokemon1.move.prio > pokemon2.move.prio:
+        first = pokemon1
+        second = pokemon2
+    elif pokemon2.move.prio > pokemon1.move.prio:
+        first = pokemon2
+        second = pokemon1
+    else:
+        if pokemon1.spe > pokemon2.spe:
+            first = pokemon1
+            second = pokemon2
+        elif pokemon2.spe > pokemon1.spe:
+            first = pokemon2
+            second = pokemon1
+        else:
+            if random.random() > 0.5:
+                first = pokemon1
+                second = pokemon2
             else:
-                slow_print("Please input a valid number!")
-        except:
-            raise ValueError("please input a number!")
+                first = pokemon2
+                second = pokemon1
+    return first, second
 
-def team_checker(team):
-    fainted = 0
 
-    for poke in team:
-        if poke.hp == 0:
-            fainted += 1
-    if fainted == len(team):
-        return False
-    return True
-
-def battle(team1, team2):
+def battle(player1, player2):
+    team1 = player1.team
+    team2 = player2.team
     pokemon1 = team1[0]
     pokemon2 = team2[0]
 
@@ -98,15 +93,15 @@ def battle(team1, team2):
                 break
 
     pokemon2.name = f"Enemy {pokemon2.name}"
-    while team_checker(team1) and team_checker(team2):
+    while player1.team_checker() and player2.team_checker():
 
         pokemon1.move = player(pokemon1)
         pokemon2.move = Brain(pokemon2)
 
-        if type(pokemon1.move) != "object":
+        if type(pokemon1.move) == str:
             match(pokemon1.move):
                 case "pokemon":
-                    pokemon1 = switch_pokemon(team1)
+                    pokemon1 = player1.switch_pokemon(pokemon1)
                     first = pokemon1
                     second = pokemon2
                 case "item":
@@ -114,40 +109,18 @@ def battle(team1, team2):
                 case "run":
                     break
         else:
-
-            if pokemon1.move.prio > pokemon2.move.prio:
-                first = pokemon1
-                second = pokemon2
-            elif pokemon2.move.prio > pokemon1.move.prio:
-                first = pokemon2
-                second = pokemon1
-
-            else:
-                if pokemon1.spe > pokemon2.spe:
-                    first = pokemon1
-                    second = pokemon2
-                elif pokemon2.spe > pokemon1.spe:
-                    first = pokemon2
-                    second = pokemon1
-                else:
-                    if random.random() > 0.5:
-                        first = pokemon1
-                        second = pokemon2
-                    else:
-                        first = pokemon2
-                        second = pokemon1
-
+            first, second = sequence_set(pokemon1, pokemon2)
             turn(first, second, first.move)
 
         if second.hp != 0:            
             turn(second, first, second.move)
         if pokemon1.hp <= 0:
             slow_print(f"{pokemon1.name} fainted!")
-            if not team_checker(team1):
+            if not player1.team_checker():
                 slow_print("You are out of usable pokemon!\nYou have lost")
             else:
-                pokemon1 = switch_pokemon(team1)
+                pokemon1 = player1.switch_pokemon()
         elif pokemon2.hp <= 0:
             slow_print(f"{pokemon2.name} fainted!")
-            if not team_checker(team2):
+            if not player2.team_checker():
                 slow_print("Your opponent is out of usable pokemon\nYou have won!")

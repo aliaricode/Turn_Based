@@ -1,4 +1,5 @@
 from pokemon import Pokemon
+from player import Player
 from battler import battle
 from utils import slow_print
 import subprocess
@@ -15,7 +16,10 @@ def main():
     team1 = [pokemon1, pokemon2]
     team2 = [pokemon3]
 
-    battle(team1, team2)
+    player1 = Player("imperium",team1)
+    player2 = Player("Ayda", team2)
+
+    battle(player1, player2)
 
 if __name__ == "__main__":
     main()
