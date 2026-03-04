@@ -68,3 +68,6 @@ class Pokemon:
 
     def take_damage(self, damage):
         self.hp -= damage
+    
+    def use_move(self):
+        self.move.pp -= 1

@@ -30,7 +30,7 @@ def damage_calc(pokemon1, pokemon2, used_attack):
 
 def turn(pokemon, target, move):
         subprocess.run('clear')
-        move.pp -= 1
+        pokemon.use_move()
         slow_print(f"{pokemon.name} used {move.name}!")
         if move.category != "Status":
             if move.acc * 255/100 > random.randint(0, 255):

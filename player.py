@@ -17,7 +17,7 @@ class Player:
         if fainted == len(self.team):
             return False
         return True
-    
+
     def switch_pokemon(self, used=None):
         while True:
             subprocess.run('clear')

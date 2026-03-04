@@ -27,7 +27,7 @@ class Move:
             self.target = "normal"
             self.flags = {}
             return
-        
+
         base = MOVES_DB[name]
         self.name = name
         self.pwr = base[0]
