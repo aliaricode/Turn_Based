@@ -46,22 +46,48 @@ class Pokemon:
         self.spa = (base[3] * 2 * self.lvl // 100 + 5)
         self.spd = (base[4] * 2 * self.lvl // 100 + 5)
         self.spe = (base[5] * 2 * self.lvl // 100 + 5)
+
+        self.soft_stats = {
+            "atk": 0,
+            "dfs": 0,
+            "spa": 0,
+            "spd": 0,
+            "spd": 0,
+            "spe": 0,
+        }
     
     def get_base_stat(self, stat):
         return getattr(self, f"base_{stat}")
         
     def get_stat(self, stat):
-        return getattr(self, stat)
+        stat = getattr(self, stat)
+        return stat + stat * (self.soft_stats[stat] * 0.5)
 
     def change_stat(self, stat, stage):
-        if getattr(self, stat) > (3 * getattr(self, f"base_{stat}") * 2 * self.lvl // 100 + 5) and stage > 0:
+        if self.soft_stats[stat] == 6 and stage > 0:
             slow_print(f"{self.name}'s {stat} can't get raised anymore!")
-        elif getattr(self, stat) < (getattr(self, f"base_{stat}") * 2 * self.lvl // 100 + 5) / 3 and stage < 0:
+        elif self.soft_stats[stat] == -6 and stage < 0:
             slow_print(f"{self.name}'s {stat} can't get lowered anymore!")
         else:
-            current = getattr(self, stat)
-            new_value = current + current * (stage * 0.5)
-            setattr(self, stat, new_value)
+            self.soft_stats[stat] += stage
+#        if getattr(self, stat) > (3 * getattr(self, f"base_{stat}") * 2 * self.lvl // 100 + 5) and stage > 0:
+#            slow_print(f"{self.name}'s {stat} can't get raised anymore!")
+#        elif getattr(self, stat) < (getattr(self, f"base_{stat}") * 2 * self.lvl // 100 + 5) / 3 and stage < 0:
+#            slow_print(f"{self.name}'s {stat} can't get lowered anymore!")
+#        else:
+#            current = getattr(self, stat)
+#            new_value = current + current * (stage * 0.5)
+#            setattr(self, stat, new_value)
+
+    def reset_soft_stats(self):
+        self.soft_stats = {
+            "atk": 0,
+            "dfs": 0,
+            "spa": 0,
+            "spd": 0,
+            "spd": 0,
+            "spe": 0,
+        }
 
     def heal(self, amount):
         self.hp += amount
