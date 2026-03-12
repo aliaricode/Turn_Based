@@ -35,6 +35,7 @@ class Player:
                     elif self.team[choice -1] == used:
                         slow_print("The selected pokemon is already out!")
                     else:
+                        pokemon.reset_soft_stats()
                         return self.team[choice - 1]
                 else:
                     slow_print("Please input a valid number!")

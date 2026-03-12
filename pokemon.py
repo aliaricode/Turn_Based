@@ -6,7 +6,7 @@ try:
     with open('modern_pokedex.json', 'r') as f:
         POKEMON_DB = json.load(f)
 except FileNotFoundError:
-    print("Error: JSON files not found! Run 'modern_scraper.py' first.")
+    slow_print("Error: JSON files not found! Run 'modern_scraper.py' first.")
     POKEMON_DB = {}
 
 class Pokemon:
@@ -63,6 +63,9 @@ class Pokemon:
         stat = getattr(self, stat)
         return stat + stat * (self.soft_stats[stat] * 0.5)
 
+    def get_health(self):
+        return f"{self.hp}/{self.max_hp}"
+
     def change_stat(self, stat, stage):
         if self.soft_stats[stat] == 6 and stage > 0:
             slow_print(f"{self.name}'s {stat} can't get raised anymore!")
@@ -70,6 +73,7 @@ class Pokemon:
             slow_print(f"{self.name}'s {stat} can't get lowered anymore!")
         else:
             self.soft_stats[stat] += stage
+
 #        if getattr(self, stat) > (3 * getattr(self, f"base_{stat}") * 2 * self.lvl // 100 + 5) and stage > 0:
 #            slow_print(f"{self.name}'s {stat} can't get raised anymore!")
 #        elif getattr(self, stat) < (getattr(self, f"base_{stat}") * 2 * self.lvl // 100 + 5) / 3 and stage < 0:
@@ -94,6 +98,6 @@ class Pokemon:
 
     def take_damage(self, damage):
         self.hp -= damage
-    
+
     def use_move(self):
         self.move.pp -= 1

@@ -8,11 +8,11 @@ import subprocess
 def damage_calc(pokemon1, pokemon2, used_attack):
     match used_attack.category:
         case("Physical"):
-            atk = pokemon1.atk
-            dfs = pokemon2.dfs
+            atk = pokemon1.get_stat("atk")
+            dfs = pokemon2.get_stat("dfs")
         case("Special"):
-            atk = pokemon1.spa
-            dfs = pokemon2.spd
+            atk = pokemon1.get_stat("spa")
+            dfs = pokemon2.get_stat("spd")
         case(__):
             raise ValueError("this is not a damage move!")
         
@@ -64,10 +64,10 @@ def sequence_set(pokemon1, pokemon2):
         first = pokemon2
         second = pokemon1
     else:
-        if pokemon1.spe > pokemon2.spe:
+        if pokemon1.get_stat("spe") > pokemon2.get_stat("spe"):
             first = pokemon1
             second = pokemon2
-        elif pokemon2.spe > pokemon1.spe:
+        elif pokemon2.get_stat("spe") > pokemon1.get_stat("spe"):
             first = pokemon2
             second = pokemon1
         else:
@@ -86,9 +86,9 @@ def battle(player1, player2):
     pokemon1 = team1[0]
     pokemon2 = team2[0]
 
-    if pokemon1.hp == 0:
+    if pokemon1.get_health() == 0:
         for poke in team1:
-            if poke.hp != 0:
+            if poke.get_health() != 0:
                 pokemon1 = poke
                 break
 
@@ -112,15 +112,15 @@ def battle(player1, player2):
             first, second = sequence_set(pokemon1, pokemon2)
             turn(first, second, first.move)
 
-        if second.hp != 0:            
+        if second.get_health != 0:            
             turn(second, first, second.move)
-        if pokemon1.hp <= 0:
+        if pokemon1.get_health <= 0:
             slow_print(f"{pokemon1.name} fainted!")
             if not player1.team_checker():
                 slow_print("You are out of usable pokemon!\nYou have lost")
             else:
                 pokemon1 = player1.switch_pokemon()
-        elif pokemon2.hp <= 0:
+        elif pokemon2.get_health <= 0:
             slow_print(f"{pokemon2.name} fainted!")
             if not player2.team_checker():
                 slow_print("Your opponent is out of usable pokemon\nYou have won!")
