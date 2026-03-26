@@ -86,9 +86,9 @@ def battle(player1, player2):
     pokemon1 = team1[0]
     pokemon2 = team2[0]
 
-    if pokemon1.get_health() == 0:
+    if pokemon1.hp == 0:
         for poke in team1:
-            if poke.get_health() != 0:
+            if poke.hp != 0:
                 pokemon1 = poke
                 break
 
@@ -112,15 +112,17 @@ def battle(player1, player2):
             first, second = sequence_set(pokemon1, pokemon2)
             turn(first, second, first.move)
 
-        if second.get_health != 0:            
+        if second.hp != 0:            
             turn(second, first, second.move)
-        if pokemon1.get_health <= 0:
+        if pokemon1.hp <= 0:
             slow_print(f"{pokemon1.name} fainted!")
             if not player1.team_checker():
                 slow_print("You are out of usable pokemon!\nYou have lost")
             else:
                 pokemon1 = player1.switch_pokemon()
-        elif pokemon2.get_health <= 0:
+        elif pokemon2.hp <= 0:
             slow_print(f"{pokemon2.name} fainted!")
             if not player2.team_checker():
                 slow_print("Your opponent is out of usable pokemon\nYou have won!")
+            else:
+                pokemon2 = player2.switch_pokemon()

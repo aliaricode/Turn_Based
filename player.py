@@ -1,5 +1,6 @@
 import subprocess
 from utils import slow_print
+from random import randint
 
 class Player:
     def __init__(self, name, team, items=[], ai=None):
@@ -19,25 +20,34 @@ class Player:
         return True
 
     def switch_pokemon(self, used=None):
-        while True:
-            subprocess.run('clear')
-            for index, pokemon in enumerate(self.team, 1):
-                print(f"{index} -- {pokemon.name}")
-            slow_print("Which pokemon do you want to switch to?")
+        if self.ai == "player":
+            while True:
+                subprocess.run('clear')
+                for index, pokemon in enumerate(self.team, 1):
+                    print(f"{index} -- {pokemon.name}")
+                slow_print("Which pokemon do you want to switch to?")
 
-            try:
-                choice = int(input("-> "))
-                if 6 >= choice and choice >= 1:
-                    if self.team[choice - 1].name == "None":
-                        slow_print("Selected slot is empty!")
-                    elif self.team[choice - 1].hp == 0:
-                        slow_print("Selected pokemon is already fainted!")
-                    elif self.team[choice -1] == used:
-                        slow_print("The selected pokemon is already out!")
+                try:
+                    choice = int(input("-> "))
+                    if 6 >= choice and choice >= 1:
+                        if self.team[choice - 1].name == "None":
+                            slow_print("Selected slot is empty!")
+                        elif self.team[choice - 1].hp == 0:
+                            slow_print("Selected pokemon is already fainted!")
+                        elif self.team[choice -1] == used:
+                            slow_print("The selected pokemon is already out!")
+                        else:
+                            pokemon.reset_soft_stats()
+                            return self.team[choice - 1]
                     else:
-                        pokemon.reset_soft_stats()
-                        return self.team[choice - 1]
-                else:
-                    slow_print("Please input a valid number!")
-            except:
-                raise ValueError("please input a number!")
+                        slow_print("Please input a valid number!")
+                except:
+                    raise ValueError("please input a number!")
+        else:
+            possible = []
+            for poke in self.team:
+                if poke.hp > 0:
+                    possible.append(poke)
+            selected = possible[randint(0, len(possible)-1)]
+            slow_print(f"{self.name} sent out {selected.name}")
+            return selected

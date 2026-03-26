@@ -60,8 +60,8 @@ class Pokemon:
         return getattr(self, f"base_{stat}")
         
     def get_stat(self, stat):
-        stat = getattr(self, stat)
-        return stat + stat * (self.soft_stats[stat] * 0.5)
+        poke_stat = getattr(self, stat)
+        return poke_stat + poke_stat * (self.soft_stats[stat] * 0.5)
 
     def get_health(self):
         return f"{self.hp}/{self.max_hp}"
