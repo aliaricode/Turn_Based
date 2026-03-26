@@ -2,7 +2,7 @@ import random
 from brain import Brain
 from brain import player
 from utils import slow_print
-from type_chart import effectivness
+from database import effectivness
 import subprocess
 
 def damage_calc(pokemon1, pokemon2, used_attack):
@@ -99,13 +99,15 @@ def battle(player1, player2):
         pokemon2.move = Brain(pokemon2)
 
         if type(pokemon1.move) == str:
+
+            first = pokemon1
+            second = pokemon2
+
             match(pokemon1.move):
                 case "pokemon":
-                    pokemon1 = player1.switch_pokemon(pokemon1)
-                    first = pokemon1
-                    second = pokemon2
+                    pokemon1 = player1.choose_pokemon("switch to", pokemon1)
                 case "item":
-                    print("not yet implemented!")
+                    player1.use_item()
                 case "run":
                     break
         else:
@@ -119,10 +121,10 @@ def battle(player1, player2):
             if not player1.team_checker():
                 slow_print("You are out of usable pokemon!\nYou have lost")
             else:
-                pokemon1 = player1.switch_pokemon()
+                pokemon1 = player1.choose_pokemon("switch to")
         elif pokemon2.hp <= 0:
             slow_print(f"{pokemon2.name} fainted!")
             if not player2.team_checker():
                 slow_print("Your opponent is out of usable pokemon\nYou have won!")
             else:
-                pokemon2 = player2.switch_pokemon()
+                pokemon2 = player2.choose_pokemon("switch to")

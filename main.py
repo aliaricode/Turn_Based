@@ -17,7 +17,7 @@ def main():
     team1 = [pokemon1, pokemon2]
     team2 = [pokemon3, pokemon4]
 
-    player1 = Player("imperium",team1, [], "player")
+    player1 = Player("imperium",team1, ["super potion", "potion"], "player")
     player2 = Player("Ayda", team2)
 
     battle(player1, player2)

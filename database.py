@@ -1,3 +1,5 @@
+items = {"potion": 25, "super potion": 50}
+
 type_chart = {
     "Normal": {
         "Rock": 0.5, 

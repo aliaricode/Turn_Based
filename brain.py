@@ -21,7 +21,7 @@ def player(pokemon):
                         subprocess.run("clear")
                         return player_move(pokemon)
                     case 2:
-                        print("to be added")
+                        return "item"
                     case 3:
                         return "pokemon"
                     case 4:
